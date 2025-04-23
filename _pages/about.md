@@ -19,6 +19,6 @@ Cajal would conclude his 1913 doctrine by saying that “It is for the science o
 
 
 ## Recent News from the lab
-------
+
 * 22.04.2025 - Amber Penning defended her thesis.
 * 05.04.2024 - Our group page has launched!
