@@ -41,8 +41,9 @@ Like most children I did go through a phase of driving my parents mad by asking 
 **Giorgia Tosoni, PhD student**
 
 Curious mind striving to decipher the link between adult neurogenesis and Alzheimer’s disease, at single-cell level. Boosting my own neurogenesis climbing, running, cycling, and reading books. Molecular biologist by training, with my PhD project I am embarking into the bioinformatics world. My interest is to map the cellular and molecular complexity of the human adult hippocampal neurogenic niche and investigate which are the cell-types and the pathways that may be deregulated in Alzheimer’s disease (AD). To achieve this goal, I profit from the presence of the Netherlands Brain Bank (NBB) in our institute to obtain a carefully selected and stratified collection of post-mortem fresh-frozen human hippocampi, from healthy, AD, and ‘dementia-resilient’ individuals.
-<a href="https://nin.nl/author/polzerherseninstituut-knaw-nl/">
-  <img src="https://raw.githubusercontent.com/saltalab/saltalab.github.io/master/images/oliver.png" alt="Olmo" style="width:280px;height:400px;">
+
+<a href="https://nin.nl/author/polzer/">
+  <img src="https://raw.githubusercontent.com/saltalab/saltalab.github.io/master/images/oliver.png" alt="Oliver" style="width:300px;height:300px;">
 </a>
 
 **Oliver Polzer, PhD student**
