@@ -40,3 +40,11 @@ As part of a larger collaborative network, our aim is to profile the effect of t
 *Jackson Pollock. Sea Change. 1947*
 
 We are interested in characterizing the impact of physical exercise on the effectors of neuroinflammation, namely on microglial populations. We use human iPSC-derived microglia-like cells and a battery of omics and other technologies.
+
+## **Brain Aging & Resilience**
+
+  <img src="https://raw.githubusercontent.com/saltalab/saltalab.github.io/master/images/herrera.jpg" alt="" style="width:300px;height:300px;">
+
+*Carmen Herrera. Equilibrio. 2017*
+
+Using a combination of omics technologies we aim to profile the cell type-specific signatures of healthy aging and resilience in the human brain.
