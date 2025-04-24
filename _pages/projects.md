@@ -1,11 +1,8 @@
 ---
 permalink: /
-title: ""
-excerpt: "About me"
+title: "projects"
+excerpt: "projects"
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 
 ## **Adult Hippocampal Neurogenesis & Alzheimer’s Disease**
