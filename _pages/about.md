@@ -21,5 +21,6 @@ Cajal would conclude his 1913 doctrine by saying that “It is for the science o
 ## Recent News from the lab
 
 * 22.04.2025 - Amber Penning defended her thesis.
+* 10.09.2024 - New preptint: [Unique transcriptional profiles of adult human immature neurons in healthy aging, Alzheimer’s disease, and cognitive resilience](https://www.biorxiv.org/content/10.1101/2025.01.08.631686v1)
 * 10.09.2024 - New Publication alert! [NACC2, a molecular effector of miR-132 regulation at the interface between adult neurogenesis and Alzheimer’s disease](https://www.nature.com/articles/s41598-024-72096-6)
 * 05.04.2024 - Our group page has launched!
