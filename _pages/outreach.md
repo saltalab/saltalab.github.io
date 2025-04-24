@@ -29,6 +29,8 @@ redirect_from:
 
 - [Fierce battle in Alzheimer's research over the question: does the adult brain still produce new brain cells?](https://www.volkskrant.nl/wetenschap/felle-strijd-in-alzheimeronderzoek-over-de-vraag-maakt-het-volwassen-brein-nog-nieuwe-hersencellen-aan~b0b18b34/)
 - [Introductions to the Community: Early-Career Researchers in the Time of COVID-19](https://pubmed.ncbi.nlm.nih.gov/33667356/)
-  
+- [Brain Help Desk](https://brainhelpdesk.nl/vraag/hoe-ontstaat-alzheimer/)  
 
-------
+## Events
+
+- [Brain Gymnastics](https://weekendvandewetenschap.nl/activiteiten/2024/hersengymnastiek/)
