@@ -10,7 +10,7 @@ redirect_from:
 
 **The members of Salta Lab**
 
-  <img src="https://raw.githubusercontent.com/saltalab/saltalab.github.io/master/images/2024_christmas.jpg" alt="" style="width:450px;height:600px;">
+  <img src="https://raw.githubusercontent.com/saltalab/saltalab.github.io/master/images/group.jpg" alt="" style="width:800px;height:600px;">
   
 ---
 
