@@ -48,23 +48,6 @@ Like most children I did go through a phase of driving my parents mad by asking 
 
 Spanish neurobiologist with a keen interest in the hippocampus, particularly its essential role in learning and memory, its involvement in pathological conditions like Alzheimer’s disease, as well as its remarkable capacity to integrate new neurons through adult neurogenesis. I completed my PhD in Dr. Maria Llorens’ lab, where I investigated the occurrence of adult hippocampal neurogenesis in human beings and its vulnerability under certain pathological conditions. Now, as a postdoctoral researcher in Dr. Evgenia Salta’s lab at NIN, I am excited to further explore the dynamic nature of this process and the complex environment in which it takes place. Beyond the lab, I enjoy bouldering and playing padel, and I’m eager to explore Amsterdam by bike. I also love travelling and attending concerts whenever I have the opportunity.
 
-<a href="https://nin.nl/author/tosoniherseninstituut-knaw-nl/">
-  <img src="https://raw.githubusercontent.com/saltalab/saltalab.github.io/master/images/giorgia.png" alt="Giorgia" style="width:250px;height:320px;">
-</a>
-
-**Giorgia Tosoni, PhD student**
-
-Curious mind striving to decipher the link between adult neurogenesis and Alzheimer’s disease, at single-cell level. Boosting my own neurogenesis climbing, running, cycling, and reading books. Molecular biologist by training, with my PhD project I am embarking into the bioinformatics world. My interest is to map the cellular and molecular complexity of the human adult hippocampal neurogenic niche and investigate which are the cell-types and the pathways that may be deregulated in Alzheimer’s disease (AD). To achieve this goal, I profit from the presence of the Netherlands Brain Bank (NBB) in our institute to obtain a carefully selected and stratified collection of post-mortem fresh-frozen human hippocampi, from healthy, AD, and ‘dementia-resilient’ individuals.
-
-<a href="https://nin.nl/author/polzer/">
-  <img src="https://raw.githubusercontent.com/saltalab/saltalab.github.io/master/images/oliver.png" alt="Oliver" style="width:280px;height:300px;">
-</a>
-
-**Oliver Polzer, PhD student**
-
-After obtaining my Master’s degree in Biomedical Engineering from the university of Paris, I further wanted to challenge myself and received the amazing opportunity to be part of two labs, Evgenia Salta’s and Carlos Fitzsimons’s lab, here in Amsterdam. Besides trying to unravel the potential of microRNAs in Alzheimer’s disease, I enjoy in corona-free times concerts and festivals. Further I love bouldering and taking my mountain bike for a ride (latter comes really in handy since the two labs are scattered in Amsterdam).
-Using adeno-associated viruses, the goal of my PhD is a combined delivery of two microRNAs in order to restore homeostasis of multiple biological pathways and cellular alterations that contributes to the development of Alzheimer’s disease.
-
 <a href="https://nin.nl/author/ormaecheaherseninstituut-knaw-nl/">
   <img src="https://raw.githubusercontent.com/saltalab/saltalab.github.io/master/images/olmo.png" alt="Olmo" style="width:270px;height:400px;">
 </a>
@@ -78,4 +61,5 @@ Currently, I am engaged in my Ph.D. project, exploring the potential beneficial 
 ---
 
 ### Alumni
+* Giorgia Tosoni, PhD student - Postdoctoral researcher in the Molecular Neurogenetics group, led by Prof. Johan Jakobsson.
 * Amber Penning, PhD student - Scientist at VICO Therapeutics
