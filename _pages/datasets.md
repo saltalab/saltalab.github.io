@@ -6,7 +6,7 @@ description: "Publicly available datasets of Salta Group"
 author_profile: true
 ---
 
-**Transcriptional profiles of immature neurons in aged human hippocampus track Alzheimer’s pathology and cognitive resilience. Cell Stem Cell, 2026**
+**Transcriptional profiles of immature neurons in aged human hippocampus track Alzheimer’s pathology and cognitive resilience. Cell Stem Cell, 2026.**
 
   <img src="https://raw.githubusercontent.com/saltalab/saltalab.github.io/master/images/Tosoni_CSC_2026.jpg" alt="" style="width:800px;height:600px;">
   
