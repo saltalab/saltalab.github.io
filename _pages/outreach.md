@@ -24,7 +24,7 @@ redirect_from:
 
 - [Alpha TV - News](https://www.alphatv.gr/newscast/alpha-news/broadcast/722723-kentriko-deltio-08-07-2026/)
 - [EenVandaag - NPO]()
-- [Prison Education Project]()
+- [Prison Education Project](https://www.prisoneducationproject.org/)
 - [How do you keep your brain young (with D. Swaab & E. Scherder)](https://youtu.be/PqfcXQDmeyk)
 - [Alzheimer’s research using human brain](https://www.linkedin.com/posts/deborah-alfarez-42b3a56_alzheimersdisease-alzheimer-hersendonor-ugcPost-6790602624077963264-jQxW)
 - [VIB Seminar: Career talks](https://vimeo.com/541585035/39da189c8f)
