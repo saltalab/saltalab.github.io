@@ -10,10 +10,6 @@ redirect_from:
 
 ## Talks
 
-- [25-26 June 2026 - Dutch Neuroscience Meeting, Tiel](https://dnm26.azuleon.org/home)
-- [10th of April 2026 - Translational Neuroscience Network Symposium, Amsterdam](https://www.amsterdamumc.org/en/research/institutes/amsterdam-neuroscience/events/translational-neuroscience-network-tn2-symposium-causality-through-the-lens-of-ageing)
-- [11-13 March 2026 - SY-STEM, Stem Cell Symposium, Vienna](https://www.isscr.org/unaffiliated-events/sy-stem-2026)
-- [1-5 March 2026 - ERA-AD, European Research Academy on Alzheimer's, Bertinoro](https://era-ad2026.azuleon.org/welcome)
 - [9th of April 2024 - CogniTalks, University of Amsterdam, Amsterdam](https://dezwijger.nl/programma/cognitalks-2024)
 - [17th of April 2024 - Science Café, Wageningen University & Research, Wageningen](http://sciencecafewageningen.nl/)
 
@@ -25,6 +21,7 @@ redirect_from:
 - [Master the Mind Podcast, NIN](https://nin.nl/podcast/a20-alzheimers-disease-evgenia-salta/)
 
 ## Short Movies & Videos
+
 - [Alpha TV - News](https://www.alphatv.gr/newscast/alpha-news/broadcast/722723-kentriko-deltio-08-07-2026/)
 - [EenVandaag - NPO]()
 - [Prison Education Project]()
