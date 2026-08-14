@@ -20,7 +20,9 @@ Cajal would conclude his 1913 doctrine by saying that “It is for the science o
 
 ## Recent News from the lab
 
+* 26.06.2026 - Giorgia Tosoni received the [Best Thesis Award, Dutch Neurofederation](https://www.linkedin.com/posts/evgenia-salta-aa967045_rejuvenation-resilience-alzheimersdisease-activity-7477752867760635904-1g8j?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAmH1SEBpyw16pUnW9PbTv6UaiGlVRLyMh0)
 * 07.05.2026 - Giorgia's paper [Transcriptional profiles of immature neurons in aged human hippocampus track Alzheimer's pathology and cognitive resilience](https://pubmed.ncbi.nlm.nih.gov/42034060/) is published now in Cell Stem Cell!
+* 18.09.2025 - Giorgia Tosoni received the [Dick Swaab Award](https://www.linkedin.com/posts/evgenia-salta-aa967045_dickswaabaward-alzheimer-dementia-ugcPost-7374438729760919552-KZmd/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAmH1SEBpyw16pUnW9PbTv6UaiGlVRLyMh0)
 * 19.06.2025 - Giorgia Tosoni defended her thesis.
 * 22.04.2025 - Amber Penning defended her thesis.
 * 10.01.2025 - New preptint: [Unique transcriptional profiles of adult human immature neurons in healthy aging, Alzheimer’s disease, and cognitive resilience](https://www.biorxiv.org/content/10.1101/2025.01.08.631686v1) Check [this thread](https://bsky.app/profile/giorgitos.bsky.social/post/3lfeumgnlwc2i) from Giorgia for a quick summary!
